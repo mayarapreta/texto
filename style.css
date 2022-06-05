@@ -1,0 +1,42 @@
+.tito{
+display: flex;
+ color: rgb(155, 70, 9);
+ background-color: #fef7e8;
+ padding: 30px;
+ margin-top: 30px;
+margin-bottom: 30px;
+ 
+}
+.body{
+      -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+      display: none;
+}
+.text{
+      color: rgb(24, 21, 23);
+      font-weight: inherit;
+      font-style: inherit;
+     font-family: inherit;
+      font-size: 20px;
+      vertical-align: baseline;
+      vertical-align: baseline;
+      
+
+}
+.h2{
+      color: rgb(155, 70, 9);
+     text-align: left;
+     text-transform:capitalize;
+     left: 12px;
+      
+}
+.foto{
+     padding: 0 ;
+     border: 3px solid black;
+     border-radius: 12px;
+     margin: 10px;
+
+     
+}
+.fase{
+      list-style-type:square;
+}
